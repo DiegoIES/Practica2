@@ -8,8 +8,9 @@ p.nombre_clase1{
 
 p.nombre_clase2{
     font-weight: bold;
+    color: black;
 }
 
-p.nombre_clase3{
+p{
     color: red;
 }
